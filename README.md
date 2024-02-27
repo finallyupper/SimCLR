@@ -1,5 +1,5 @@
 # SimCLR
-Code implementation of the SimCLR architecture.  
+Code implementation of the SimCLR architecture.  (SimCLR 구현)
   
 - Started date: 2024-02-24 (Resnet architecture) ~ ing
 ## References
